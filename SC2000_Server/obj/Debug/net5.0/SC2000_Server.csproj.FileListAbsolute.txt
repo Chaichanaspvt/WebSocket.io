@@ -1,0 +1,15 @@
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/SC2000_Server.deps.json
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/SC2000_Server.runtimeconfig.json
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/SC2000_Server.runtimeconfig.dev.json
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/SC2000_Server.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/ref/SC2000_Server.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/bin/Debug/net5.0/SC2000_Server.pdb
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.csproj.AssemblyReference.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.AssemblyInfoInputs.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.AssemblyInfo.cs
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.csproj.CoreCompileInputs.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/ref/SC2000_Server.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.pdb
+/Users/Mac/001-SPVision/Hikvision/SC2000_Server/obj/Debug/net5.0/SC2000_Server.genruntimeconfig.cache
